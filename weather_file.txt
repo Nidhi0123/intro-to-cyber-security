@@ -1,0 +1,6 @@
+
+temperature:40.05000000000001
+weather_dec:haze
+Humidity:25
+wind_spd:4.63
+date_time:22 Jun 2021 | 11:58:53 AM
